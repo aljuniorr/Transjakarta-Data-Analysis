@@ -40,3 +40,4 @@ Hasil analisis akan disajikan terpisah dalam Jupyter Notebook yang akan menjadi 
 Jika memiliki pertanyaan atau saran, silahkan menghubungi aljuniorr18@gmail.com. 
 
 ---
+Untuk melihat visualisasi di Tableau Public, silahkan akses [link ini](https://public.tableau.com/views/TransjakartaAnalysis/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
